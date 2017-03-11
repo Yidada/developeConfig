@@ -20,3 +20,9 @@
 > vim配置
 
 参考这个哥们的https://github.com/ma6174/vim
+
+
+最终效果
+<img src="http://o8sxkcont.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-03-11%20%E4%B8%8B%E5%8D%884.42.39.png"/>
+<img src="http://o8sxkcont.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-03-11%20%E4%B8%8B%E5%8D%884.41.38.png"/>
+<img src="http://o8sxkcont.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-03-11%20%E4%B8%8B%E5%8D%884.42.24.png"/>
