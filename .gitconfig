@@ -9,3 +9,4 @@
     psm = push origin master
     ps = push
     df = diff
+    ca = commit -a
